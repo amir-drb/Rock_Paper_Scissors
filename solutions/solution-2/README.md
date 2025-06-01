@@ -1,6 +1,6 @@
-# Rock Paper Scissors Game 
+# Rock Paper Scissors Game
 
-This project is a Python-based implementation of the popular game "Rock, Paper, Scissors", executed from a functional programming perspective. You have the opportunity to face off against a computer opponent, which makes its moves based on random choice. The game continues until you decide to quit. 
+This project is a Python-based implementation of the popular game "Rock, Paper, Scissors", executed from a functional programming perspective. You have the opportunity to face off against a computer opponent, which makes its moves based on random choice. The game continues until you decide to quit.
 
 ## Project Structure
 ```

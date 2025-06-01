@@ -39,4 +39,8 @@ def play():
 
 
 if __name__ == "__main__":
-    play()
+    while True:
+        play()
+        continue_game = input("Do you want to play again? (Enter any key to continue or 'q' to quit): ")
+        if continue_game.lower() == 'q':
+            break
